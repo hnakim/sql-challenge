@@ -3,10 +3,10 @@ A research project about company employees during the 1980s and 1990s. The emplo
 
 ![My Image](EmployeeSQL/ERD.png)
 
-Technologies
+##Technologies
 PostgreSQL
 
-Data Source
+##Data Source
 "Data found in EmployeeSQL/Data".
 
 
